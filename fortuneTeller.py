@@ -18,6 +18,6 @@ elif color=='red' and num==1:
 elif color=='red' and num==2:
     print('You will leave school riding a flaming chariot while screaming "POTATO!"')
 elif color=='red' and num==3:
-    print('Clay will annoy you till you die')
+    print('Clay will annoy you till you pass out')
 elif color=='red' and num==4:
-    print('Clay will annoy you till you die')
+    print('Clay will annoy you till you start bleeding out of your ears')
