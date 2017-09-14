@@ -6,9 +6,9 @@ color = input('Pick red or blue: ')
 num = int(input('Pick a number from 1-4: '))
 
 if color=='blue' and num==1:
-    print('Pedro will chase you with a flaming torch')
+    print('Pedro and the townsfolk will chase you with pitchforks and flaming torches')
 elif color=='blue' and num==2:
-    print('Clay will annoy you till you die')
+    print('Clay will annoy you to death')
 elif color=='blue' and num==3:
     print('Clay will feed you french fries until you are old and wrinkly')
 elif color=='blue' and num==4:
