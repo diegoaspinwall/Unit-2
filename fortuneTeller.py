@@ -14,7 +14,7 @@ elif color=='blue' and num==3:
 elif color=='blue' and num==4:
     print('Greg will sit on you and squish you into a pulp')
 elif color=='red' and num==1:
-    print('You will be roasted by Charlie until you start running away')
+    print('You will be roasted by Charlie until you run away screaming')
 elif color=='red' and num==2:
     print('You will leave school riding a flaming chariot while screaming "POTATO!"')
 elif color=='red' and num==3:
