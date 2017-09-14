@@ -19,3 +19,6 @@ elif num==3:
 elif num==2:
     mass = float(input('Enter Mass in Kilograms: '))
     print(mass, 'Kilograms is', mass*2.20462, 'Pounds')
+elif num==1:
+    kilo = float(input('Enter Distance in Kilometers: '))
+    print(kilo, 'Kilometers is', kilo*0.621371, 'Miles')
