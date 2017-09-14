@@ -8,7 +8,9 @@ if num>0 and num%7 == 0:
     print('Your number is positive and divisible by 7')
 elif num>0:
     print('Your number is positive and not divisible by 7 :(')
-elif num<0 and numb%7 == 0:
+elif num<0 and num%7 == 0:
     print('Your number is negative and divisible by 7')
 elif num<0:
     print('Your number is negative and not divisible by 7')
+else:
+    print('Your number is 0')
