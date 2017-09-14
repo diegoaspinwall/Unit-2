@@ -15,6 +15,6 @@ elif num==2:
 elif num==3:
     print("Why don't you check ebay and see if they have a life for sale?")
 elif num==4:
-    print('Clay can think of insults faster than you')
+    print("Clay has more french fries in his stomach than nuerons that you have. Wait, that isn't a roast")
 elif num==5:
-    print('I have more of a life than you')
+    print('A computer has more of a life than you')
