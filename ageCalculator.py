@@ -14,9 +14,12 @@ dayNow = date.today().day
 
 if monthNow==month and dayNow==day:
     print ('Happy Birthday, you', yearNow-year, 'year old!')
-elif monthNow==month and dayNow<day:
-    print('You are', (yearNow-year)-1, 'years old')
-elif month:
-    print('You are', (yearNow-year), 'years old')
+elif monthNow==month:
+    if dayNow<day:
+        print('You are', (yearNow-year)-1, 'years old')
+    else:
+        print('You are', (yearNow-year), 'years old')
 elif monthNow<month:
     print('You are', (yearNow-year)-1, 'years old')
+else:
+    print('You are', (yearNow-year), 'years old')
