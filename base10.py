@@ -38,4 +38,3 @@ else:
     dig2a = dig2
     
 print(dig2a, dig1a)
-    
