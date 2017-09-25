@@ -14,9 +14,9 @@ else:
 
 if num1%3==0 and num2%3==0:
     print('Both numbers are divisible by 3')
-elif num1%3:
+elif num1%3==0:
     print('Only the first number is divisible by 3')
-elif num2%3:
+elif num2%3==0:
     print('Only the second number is divisible by 3')
 else:
     print('Neither number is divisible by 3')
